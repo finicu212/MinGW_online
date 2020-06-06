@@ -1,1 +1,0 @@
-The path in path.php MUST be set to the bin directory in your MinGW compiler!
