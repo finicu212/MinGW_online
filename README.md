@@ -1,5 +1,7 @@
 # MinGW_online
 
+![Photo of landing page](https://i.imgur.com/phcoOZq.png)
+
 ## Setup:
 
 Inside path.php, point to your "bin" directory inside of your MinGW compiler!
